@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+D:\A_lab_workspace\SpaceLiinTech_BEE_DAL_IRL_HW\01_DESIGN\Project Outputs for DAL_IRL_V10\Pick Place for DAL_IRL.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/08/26
+Time:       10:30
+Revision:   783163e2d5b23bfc0d10ab59f179cb53d80d42b3
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R2","DNP/10k","TopLayer","RES_C_1608X60","7.6708","28.2448","0","RES"
+"R1","DNP/10k","TopLayer","RES_C_1608X60","17.2720","28.2702","180","RES"
+"Hole4","hole_space","TopLayer","HEX-M3_NoVia","3.0000","32.0000","0",""
+"Hole3","hole_space","TopLayer","HEX-M3_NoVia","22.0000","32.0000","0",""
+"Hole2","hole_space","TopLayer","HEX-M3_NoVia","22.0000","3.0000","0",""
+"Hole1","hole_space","TopLayer","HEX-M3_NoVia","3.0000","3.0000","0",""
+"JP2","DNP/0R","TopLayer","JUMPER_1608","21.2409","27.9654","0",""
+"JP1","DNP/0R","TopLayer","JUMPER_1608","21.2409","6.8796","0",""
+"J5","Header 2x1_2M","TopLayer","MOLEX_0532610271","3.6135","21.9456","270",""
+"J4","Header 2x1_2M","TopLayer","MOLEX_0532610271","21.3512","21.9964","90",""
+"D2","SFH 4715AS","TopLayer","SFH_4715AS","12.4206","24.2316","270","Infrared (IR) Emitter 860nm 3.2V 1.5A"
+"U1","MLX90642","TopLayer","TO39_package","12.2946","14.9606","270","32X24 THERMAL ARRAY, 110DEG FOV"
+"J3","Header 2x1_2M","TopLayer","MOLEX_0532610271","21.3512","13.0556","90",""
+"J2","Header 2x1_2M","TopLayer","MOLEX_0532610271","3.6135","13.0048","270",""
+"J1","HEADER 4x1","TopLayer","MOLEX_0532610471","12.4968","31.3080","180",""
+"D1","XHP70D","TopLayer","XHP70.3_High_Intensity","12.5222","5.0546","180","LED Lighting XLamp® XHP70.3 White, Cool 5000K 11.2V 1.05A 120° 2828"

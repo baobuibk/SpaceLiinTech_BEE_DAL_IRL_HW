@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DAL_IRL_V10.PrjPcb]
+   Generated File[DAL_IRL.TXT]
+   Generated File[DAL_IRL.LDP]
+   Generated File[DAL_IRL.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:27:20 AM On 8/20/2026

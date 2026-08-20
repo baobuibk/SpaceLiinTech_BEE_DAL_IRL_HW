@@ -2,81 +2,6 @@
 FileName = DAL_IRL.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : DAL_IRL_Copper_Signal_Bot.gbr
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D39
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DAL_IRL_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DAL_IRL_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DAL_IRL_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : DAL_IRL_Copper_Signal_Top.gbr
 
@@ -107,6 +32,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Paste
+      File : DAL_IRL_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DAL_IRL_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D39
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : DAL_IRL_Paste_Bot.gbr
 
@@ -118,6 +83,23 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DAL_IRL_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D34
+    D35
+    D36
 *************************************************************
 
 *************************************************************
@@ -154,6 +136,24 @@ Used DCodes :
     D34
     D35
     D36
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DAL_IRL_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
 *************************************************************
 
 *************************************************************
